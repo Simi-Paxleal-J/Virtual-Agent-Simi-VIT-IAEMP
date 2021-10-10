@@ -1,4 +1,9 @@
-# faq-virtual-agent
+**Google Colab is used as the Platform for the Virtual Agent for FAQ**
+
+![Virtual Agent](https://img.freepik.com/free-vector/chatbot-virtual-assistant-abstract-concept-illustration-internet-online-smart-robot-device-conversation-media-dialog-system-project-technology-web-software-app_335657-336.jpg?size=338&ext=jpg)
+![Jupiter Google Colab](https://miro.medium.com/max/1000/1*9Q1rcr_peQdnGMwOYDBFhw.png)
+
+# faq-virtual-agent 
 
 ### Pre-requisite
 
